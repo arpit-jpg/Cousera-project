@@ -8,14 +8,23 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "author": "",
+  "author": "Arpit verma",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.3.0"
   },
   "dependencies": {
-    "bootstrap": "^4.0.0",
-    "jquery": "^3.1.1",
-    "popper.js": "^1.12.8"
-  }
+    "bootstrap-social": "^5.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arpit-jpg/Cousera-project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arpit-jpg/Cousera-project/issues"
+  },
+  "homepage": "https://github.com/arpit-jpg/Cousera-project#readme"
 }
